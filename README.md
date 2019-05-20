@@ -1,5 +1,5 @@
 # ACCESS_dataset
-I'm sorry, The dataset upload previous is missing and I can not upload files now. Please send a e-mail to me (guoziyu@mail.sdu.edu.cn) if you need this dataset.
+I'm sorry, The dataset upload previous is missing and I can not upload files now. Please send an e-mail to me (guoziyu@mail.sdu.edu.cn) if you need this dataset.
 
 
 The dataset of Psychological Gender Express via Mobile Social Network Activities: an Experimental Study on a Gay Network Data
